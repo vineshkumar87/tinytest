@@ -3,7 +3,10 @@
     "version": "1.0.0",
     "description": "Removes all spaces from string",
     "license": "MIT",
-    "repository": "vineshdev/tinytest",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vineshkumar87/tinytest"
+    }
     "main": "index.js",
     "keywords": [
         "tinytest",
