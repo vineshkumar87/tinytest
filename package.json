@@ -1,0 +1,14 @@
+{
+    "name": "@vineshdev/tinytest",
+    "version": "1.0.0",
+    "description": "Removes all spaces from string",
+    "license": "MIT",
+    "repository": "vineshdev/tinytest",
+    "main": "index.js",
+    "keywords": [
+        "tinytest",
+        "npm",
+        "vineshdev",
+        "package"
+    ]
+}
