@@ -12,7 +12,7 @@ $ npm install @vineshdev/tinytest
 
 ## Usage
 
-```js
+```c#
 const tiny = require("@vineshdev/tinytest");
 
 tiny("Have Lot Of Space");
